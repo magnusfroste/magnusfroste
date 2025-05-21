@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @magnusfroste
-- 👀 I’m a wizard in product led AI - where AI adds value or boost experience
+- Experienced product-, development- and innovation manager
+- 👀 I'm deep diving into product led AI - where AI adds business value or boost customer experience
 - 🌱 I’m constantly learning new tech
 - 💞️ I’m looking to collaborate on new product and services
-- 📫 How to reach me, be creative
+- 📫 How to reach me, be innovative and surprise me
