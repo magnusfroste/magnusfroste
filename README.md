@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @magnusfroste
-- 👀 I’m interested in new products and AI
-- 🌱 I’m currently learning new tech
+- 👀 I’m a wizard in product led AI - where AI adds value or boost experience
+- 🌱 I’m constantly learning new tech
 - 💞️ I’m looking to collaborate on new product and services
 - 📫 How to reach me, be creative
