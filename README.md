@@ -44,7 +44,7 @@ Building AI-powered solutions and exploring agentic AI systems. Working on proje
 |---------|-------------|
 | [flowwink](https://github.com/magnusfroste/flowwink) | Open and free AI-native CMS based on Supabase |
 
-### 🎓 Educational Apps
+### � Games & Entertainment
 
 *All apps published on [www.skolappar.com](https://www.skolappar.com) - a community for vibe coding parents*
 
@@ -58,15 +58,11 @@ Building AI-powered solutions and exploring agentic AI systems. Working on proje
 | [map-game](https://github.com/magnusfroste/map-game) | Interactive geography game |
 | [codeadventure](https://github.com/magnusfroste/codeadventure) | Programming adventure game |
 | [scenskolan](https://github.com/magnusfroste/scenskolan) | Theater school management |
-| [skolappar](https://github.com/magnusfroste/skolappar) | Educational apps platform |
-
-### 🎮 Games & Entertainment
-| Project | Description |
-|---------|-------------|
 | [julkalendern](https://github.com/magnusfroste/julkalendern) | Interactive Advent calendar with daily surprises |
 | [pusselmagi](https://github.com/magnusfroste/pusselmagi) | Puzzle magic game |
 | [brickpussel](https://github.com/magnusfroste/brickpussel) | Brick puzzle game |
 | [roleplaygame](https://github.com/magnusfroste/roleplaygame) | Roleplay game platform |
+| [skolappar](https://github.com/magnusfroste/skolappar) | Educational apps platform |
 
 ### 🛠️ Developer Tools & APIs
 | Project | Description |
