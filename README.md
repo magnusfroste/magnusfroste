@@ -16,7 +16,7 @@ Building AI-powered solutions and exploring agentic AI systems. Working on proje
 ### 🤖 AI & Machine Learning
 | Project | Description |
 |---------|-------------|
-| [privateai-chhatspace](https://github.com/magnusfroste/privateai-chhatspace) | Private AI chat with RAG, dual vector stores (Qdrant/LanceDB), and Docling PDF processing |
+| [private-ai-chat-space](https://github.com/magnusfroste/private-ai-chat-space) | Private AI chat with RAG, dual vector stores (Qdrant/LanceDB), and Docling PDF processing |
 | [mlx-ml](https://github.com/magnusfroste/mlx-ml) | ML experiments with Apple MLX framework |
 | [lmstudio-agents](https://github.com/magnusfroste/lmstudio-agents) | AI agents for LM Studio |
 | [lazyjames-research](https://github.com/magnusfroste/lazyjames-research) | AI/ML research projects |
