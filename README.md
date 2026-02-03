@@ -1,6 +1,12 @@
-# Magnus Froste
+# Hi, I'm Magnus 👋
 
-Innovation Strategist & Agentic AI Expert | Product Development
+📍 Sweden | 🤖 Innovation Strategist & Agentic AI Expert | 🚀 Product Development
+
+Deep diving into product-led AI – where AI adds business value or boosts customer experience. Constantly learning new tech and building things that matter.
+
+## Current Focus
+
+Building AI-powered solutions and exploring agentic AI systems. Working on projects that bridge innovation with practical business applications.
 
 ## Projects
 
@@ -26,10 +32,6 @@ Innovation Strategist & Agentic AI Expert | Product Development
 | [domainproxy](https://github.com/magnusfroste/domainproxy) | Domain proxy service | JavaScript | ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg) |
 | [domain-proxy-saas](https://github.com/magnusfroste/domain-proxy-saas) | Domain proxy SaaS platform | JavaScript | ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg) |
 | [mtx_streaming](https://github.com/magnusfroste/mtx_streaming) | Media streaming solution | | ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg) |
-
-## About
-
-Experienced product-, development- and innovation manager. Deep diving into product led AI - where AI adds business value or boost customer experience.
 
 ## Connect
 
