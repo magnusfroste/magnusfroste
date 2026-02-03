@@ -2,7 +2,7 @@
 
 📍 Sweden | 🤖 Innovation Strategist & Agentic AI Expert | 🚀 Product Development
 
-Deep diving into product-led AI – where AI adds business value or boosts customer experience. Constantly learning new tech and building things that matter. Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed.
+I build AI-powered solutions that bridge innovation with practical business applications. Deep in vibe-coding mode – creating production-ready tools at ludicrous speed while maintaining quality and functionality.
 
 **Tech Stack:** TypeScript · React · Python · Go  
 **License:** MIT · Open Source
@@ -54,6 +54,7 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 |---------|------------|-------------|
 | [chatsoap](https://github.com/magnusfroste/chatsoap) | React · Supabase | Modern real-time chat application |
 | [flowifychat](https://github.com/magnusfroste/flowifychat) | React · n8n | Chat interface for n8n AI agent workflows |
+| [james-pwa-n8n](https://github.com/magnusfroste/james-pwa-n8n) | React · TypeScript · PWA | Progressive Web App for n8n workflows with offline support |
 | [stupid-simple-meet](https://github.com/magnusfroste/stupid-simple-meet) | React | Minimalist video meeting app - no signup required |
 
 ### 🌊 CMS & Content
@@ -102,6 +103,7 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
+| [**notton**](https://github.com/magnusfroste/notton) | React · Supabase | AI-powered note-taking app with semantic search and chat assistant |
 | [diplomator](https://github.com/magnusfroste/diplomator) | React · Supabase | Automated diploma and certificate generator |
 | [timeslot](https://github.com/magnusfroste/timeslot) | React · Supabase | Time slot booking and management |
 | [painpal](https://github.com/magnusfroste/painpal) | React · Supabase | Pain tracking and health monitoring app |
