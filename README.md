@@ -2,7 +2,7 @@
 
 📍 Sweden | 🤖 Innovation Strategist & Agentic AI Expert | 🚀 Product Development
 
-Deep diving into product-led AI – where AI adds business value or boosts customer experience. Constantly learning new tech and building things that matter.
+Deep diving into product-led AI – where AI adds business value or boosts customer experience. Constantly learning new tech and building things that matter. Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed.
 
 **Tech Stack:** TypeScript · React · Python · Go  
 **License:** MIT · Open Source
@@ -10,6 +10,10 @@ Deep diving into product-led AI – where AI adds business value or boosts custo
 ## Current Focus
 
 Building AI-powered solutions and exploring agentic AI systems. Working on projects that bridge innovation with practical business applications.
+
+## Technical Expertise
+
+Working with modern AI infrastructure: self-hosted LLM deployments, open weights models, fine-tuning workflows, and production-ready MLOps pipelines. From local development to cloud deployments.
 
 ## 🌟 Highlights
 
@@ -110,12 +114,6 @@ Building AI-powered solutions and exploring agentic AI systems. Working on proje
 - **Production-Ready** - All projects are battle-tested and deployable
 - **Developer-Friendly** - Clear documentation, .env.example files, and Docker support
 - **Modern Stack** - React, TypeScript, Supabase, FastAPI, and cutting-edge AI tools
-
-## Connect
-
-- 🌐 [Portfolio](https://www.froste.eu)
-- 💼 [LinkedIn](https://linkedin.com/in/magnusfroste)
-- 🐦 [Twitter](https://twitter.com/magnusfroste)
 
 ---
 
