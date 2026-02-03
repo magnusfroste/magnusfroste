@@ -41,6 +41,15 @@ Building AI-powered solutions and exploring agentic AI systems. Working on proje
 | ⏰ [timeslot](https://github.com/magnusfroste/timeslot) | Time slot management |
 | 🤡 [clown](https://github.com/magnusfroste/clown) | Clown application |
 | 🤝 [stupid-simple-meet](https://github.com/magnusfroste/stupid-simple-meet) | Simple meeting app |
+| 🧩 [pusselmagi](https://github.com/magnusfroste/pusselmagi) | Puzzle game |
+| 🧱 [brickpussel](https://github.com/magnusfroste/brickpussel) | Brick puzzle game |
+| 🎭 [roleplaygame](https://github.com/magnusfroste/roleplaygame) | Roleplay game |
+| 📊 [audiostats](https://github.com/magnusfroste/audiostats) | Audio statistics |
+| 💰 [crypto-ledger](https://github.com/magnusfroste/crypto-ledger) | Crypto ledger |
+| 🖨️ [marker-api](https://github.com/magnusfroste/marker-api) | Marker API |
+| 🚗 [garageai](https://github.com/magnusfroste/garageai) | Garage AI |
+| 🔗 [domainproxy](https://github.com/magnusfroste/domainproxy) | Domain proxy |
+| 🌐 [domain-proxy-saas](https://github.com/magnusfroste/domain-proxy-saas) | Domain proxy SaaS |
 
 ## Connect
 
