@@ -11,82 +11,114 @@ Deep diving into product-led AI – where AI adds business value or boosts custo
 
 Building AI-powered solutions and exploring agentic AI systems. Working on projects that bridge innovation with practical business applications.
 
+## 🌟 Highlights
+
+- **40+ Open Source Projects** - All MIT licensed and production-ready
+- **AI & RAG Systems** - Advanced retrieval-augmented generation with dual vector stores
+- **Educational Platform** - 13 learning apps serving thousands of students at [skolappar.com](https://www.skolappar.com)
+- **Full-Stack Development** - From ML models to production deployments
+
 ## Projects
 
 ### 🤖 AI & Machine Learning
-| Project | Description |
-|---------|-------------|
-| [private-ai-chatspace](https://github.com/magnusfroste/private-ai-chatspace) | Private AI chat with RAG, dual vector stores (Qdrant/LanceDB), and Docling PDF processing |
-| [mlx-ml](https://github.com/magnusfroste/mlx-ml) | ML experiments with Apple MLX framework |
-| [lmstudio-agents](https://github.com/magnusfroste/lmstudio-agents) | AI agents for LM Studio |
-| [lazyjames-research](https://github.com/magnusfroste/lazyjames-research) | AI/ML research projects |
-| [garageai](https://github.com/magnusfroste/garageai) | Garage AI experiments |
+
+**Featured: Private AI Chatspace** 🌟  
+*Self-hosted LLM chat with enterprise-grade RAG capabilities*
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [**private-ai-chatspace**](https://github.com/magnusfroste/private-ai-chatspace) | FastAPI · React · Qdrant · LanceDB | Private AI chat with RAG, dual vector stores, hybrid search (semantic + BM25), Docling PDF processing with OCR, and intelligent tool calling. Inspired by AnythingLLM but simpler. |
+| [mlx-ml](https://github.com/magnusfroste/mlx-ml) | Python · Apple MLX | ML experiments and fine-tuning with Apple's MLX framework for M-series chips |
+| [lmstudio-agents](https://github.com/magnusfroste/lmstudio-agents) | TypeScript · LM Studio | Agentic AI workflows and tool calling for local LLMs |
+| [lazyjames-research](https://github.com/magnusfroste/lazyjames-research) | Python · PyTorch | AI/ML research and experimentation |
+| [garageai](https://github.com/magnusfroste/garageai) | Python | Experimental AI projects and prototypes |
 
 ### 📊 Analytics & Business Tools
-| Project | Description |
-|---------|-------------|
-| [telelog-analytics](https://github.com/magnusfroste/telelog-analytics) | AI-powered Telegram analytics with OpenAI and Anthropic |
-| [quickpitch](https://github.com/magnusfroste/quickpitch) | AI-powered pitch practice with video feedback |
-| [sie-parser](https://github.com/magnusfroste/sie-parser) | SIE Parser for Swedish accounting files |
-| [shoplifting-rtsp-analyzer](https://github.com/magnusfroste/shoplifting-rtsp-analyzer) | RTSP stream analyzer for shoplifting detection |
-| [audiostats](https://github.com/magnusfroste/audiostats) | Audio statistics and analytics |
-| [aircount](https://github.com/magnusfroste/aircount) | Accounting application |
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [**telelog-analytics**](https://github.com/magnusfroste/telelog-analytics) | React · OpenAI · Anthropic | AI-powered Telegram conversation analytics with multi-model support (GPT-4 + Claude) and sentiment analysis |
+| [**quickpitch**](https://github.com/magnusfroste/quickpitch) | React · OpenAI · Agora RTC | AI-powered pitch practice platform with real-time video recording and GPT-4 feedback |
+| [sie-parser](https://github.com/magnusfroste/sie-parser) | TypeScript | SIE file parser for Swedish accounting standard (SIE4) |
+| [shoplifting-rtsp-analyzer](https://github.com/magnusfroste/shoplifting-rtsp-analyzer) | Python · OpenCV | RTSP stream analyzer for retail security and gesture detection |
+| [audiostats](https://github.com/magnusfroste/audiostats) | React · Supabase | Audio analytics and statistics dashboard |
+| [aircount](https://github.com/magnusfroste/aircount) | React · Supabase | Modern accounting application |
 
 ### 💬 Chat & Communication
-| Project | Description |
-|---------|-------------|
-| [chatsoap](https://github.com/magnusfroste/chatsoap) | Modern chat application |
-| [flowifychat](https://github.com/magnusfroste/flowifychat) | Chat interface for n8n AI agents |
-| [stupid-simple-meet](https://github.com/magnusfroste/stupid-simple-meet) | Minimalist meeting app |
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [chatsoap](https://github.com/magnusfroste/chatsoap) | React · Supabase | Modern real-time chat application |
+| [flowifychat](https://github.com/magnusfroste/flowifychat) | React · n8n | Chat interface for n8n AI agent workflows |
+| [stupid-simple-meet](https://github.com/magnusfroste/stupid-simple-meet) | React | Minimalist video meeting app - no signup required |
 
 ### 🌊 CMS & Content
-| Project | Description |
-|---------|-------------|
-| [flowwink](https://github.com/magnusfroste/flowwink) | Open and free AI-native CMS based on Supabase |
 
-### � Games & Entertainment
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [**flowwink**](https://github.com/magnusfroste/flowwink) | React · Supabase | Open-source AI-native CMS with built-in content generation and management |
 
-*All apps published on [www.skolappar.com](https://www.skolappar.com) - a community for vibe coding parents*
+### 🎮 Games & Entertainment
 
-| Project | Description |
-|---------|-------------|
-| [mathmaster](https://github.com/magnusfroste/mathmaster) | Multiplication mastery game |
-| [geogeniet](https://github.com/magnusfroste/geogeniet) | Geometry learning app |
-| [korsord](https://github.com/magnusfroste/korsord) | Crossword puzzle game |
-| [wordris](https://github.com/magnusfroste/wordris) | Word puzzle game |
-| [multiply-magic](https://github.com/magnusfroste/multiply-magic) | Multiplication learning game |
-| [map-game](https://github.com/magnusfroste/map-game) | Interactive geography game |
-| [codeadventure](https://github.com/magnusfroste/codeadventure) | Programming adventure game |
-| [scenskolan](https://github.com/magnusfroste/scenskolan) | Theater school management |
-| [julkalendern](https://github.com/magnusfroste/julkalendern) | Interactive Advent calendar with daily surprises |
-| [pusselmagi](https://github.com/magnusfroste/pusselmagi) | Puzzle magic game |
-| [brickpussel](https://github.com/magnusfroste/brickpussel) | Brick puzzle game |
-| [roleplaygame](https://github.com/magnusfroste/roleplaygame) | Roleplay game platform |
-| [skolappar](https://github.com/magnusfroste/skolappar) | Educational apps platform |
+*All 13 apps published on [www.skolappar.com](https://www.skolappar.com) - a community for vibe coding parents*
+
+**Educational Games** - Making learning fun through interactive experiences
+
+| Project | Tech Stack | Focus Area |
+|---------|------------|------------|
+| [mathmaster](https://github.com/magnusfroste/mathmaster) | React · Supabase | Multiplication mastery with gamification |
+| [geogeniet](https://github.com/magnusfroste/geogeniet) | React · Supabase | Interactive geometry learning |
+| [korsord](https://github.com/magnusfroste/korsord) | React · Supabase | Swedish crossword puzzles |
+| [wordris](https://github.com/magnusfroste/wordris) | React · Supabase | Word puzzle game (Tetris-style) |
+| [multiply-magic](https://github.com/magnusfroste/multiply-magic) | React · Supabase | Magical multiplication practice |
+| [map-game](https://github.com/magnusfroste/map-game) | React · Supabase | Interactive geography challenges |
+| [codeadventure](https://github.com/magnusfroste/codeadventure) | React · Supabase | Learn programming through adventure |
+| [scenskolan](https://github.com/magnusfroste/scenskolan) | React · Supabase | Theater school management system |
+
+**Entertainment & Seasonal**
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [**julkalendern**](https://github.com/magnusfroste/julkalendern) | React · Supabase · OpenAI | Interactive Advent calendar with AI-generated daily surprises |
+| [pusselmagi](https://github.com/magnusfroste/pusselmagi) | React · Supabase | Magical puzzle game |
+| [brickpussel](https://github.com/magnusfroste/brickpussel) | React · Supabase | Brick puzzle challenges |
+| [roleplaygame](https://github.com/magnusfroste/roleplaygame) | React · Supabase | Interactive roleplay game platform |
+| [skolappar](https://github.com/magnusfroste/skolappar) | React · Supabase | Educational apps platform and community hub |
 
 ### 🛠️ Developer Tools & APIs
-| Project | Description |
-|---------|-------------|
-| [openjobs-api](https://github.com/magnusfroste/openjobs-api) | Open job listings API |
-| [marker-api](https://github.com/magnusfroste/marker-api) | Marker API service |
-| [domainproxy](https://github.com/magnusfroste/domainproxy) | Domain proxy service |
-| [domain-proxy-saas](https://github.com/magnusfroste/domain-proxy-saas) | Domain proxy SaaS platform |
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [openjobs-api](https://github.com/magnusfroste/openjobs-api) | FastAPI · Python | Open job listings API with search and filtering |
+| [marker-api](https://github.com/magnusfroste/marker-api) | Python · FastAPI | PDF to Markdown conversion API with OCR support |
+| [domainproxy](https://github.com/magnusfroste/domainproxy) | Go | High-performance domain proxy service |
+| [domain-proxy-saas](https://github.com/magnusfroste/domain-proxy-saas) | React · Go | SaaS platform for domain proxy management |
 
 ### 📄 Productivity & Utilities
-| Project | Description |
-|---------|-------------|
-| [diplomator](https://github.com/magnusfroste/diplomator) | Diploma and certificate generator |
-| [timeslot](https://github.com/magnusfroste/timeslot) | Time slot management tool |
-| [painpal](https://github.com/magnusfroste/painpal) | Pain tracking application |
-| [adlink](https://github.com/magnusfroste/adlink) | Ad linking service |
-| [crypto-ledger](https://github.com/magnusfroste/crypto-ledger) | Cryptocurrency ledger |
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [diplomator](https://github.com/magnusfroste/diplomator) | React · Supabase | Automated diploma and certificate generator |
+| [timeslot](https://github.com/magnusfroste/timeslot) | React · Supabase | Time slot booking and management |
+| [painpal](https://github.com/magnusfroste/painpal) | React · Supabase | Pain tracking and health monitoring app |
+| [adlink](https://github.com/magnusfroste/adlink) | React | Ad linking and tracking service |
+| [crypto-ledger](https://github.com/magnusfroste/crypto-ledger) | React · Supabase | Cryptocurrency transaction ledger |
+
+## Tech Philosophy
+
+- **Privacy-First** - Self-hosted solutions that keep your data yours
+- **Production-Ready** - All projects are battle-tested and deployable
+- **Developer-Friendly** - Clear documentation, .env.example files, and Docker support
+- **Modern Stack** - React, TypeScript, Supabase, FastAPI, and cutting-edge AI tools
 
 ## Connect
 
-- [Portfolio](https://www.froste.eu)
-- [LinkedIn](https://linkedin.com/in/magnusfroste)
-- [Twitter](https://twitter.com/magnusfroste)
+- 🌐 [Portfolio](https://www.froste.eu)
+- 💼 [LinkedIn](https://linkedin.com/in/magnusfroste)
+- 🐦 [Twitter](https://twitter.com/magnusfroste)
 
 ---
 
-💡 **All projects are open source under MIT License** - feel free to use, modify, and learn from them!
+💡 **All 40+ projects are open source under MIT License** - feel free to use, modify, and learn from them!
+
+⭐ **Star your favorites** to show support and stay updated with new features!
