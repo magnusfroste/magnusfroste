@@ -45,6 +45,9 @@ Building AI-powered solutions and exploring agentic AI systems. Working on proje
 | [flowwink](https://github.com/magnusfroste/flowwink) | Open and free AI-native CMS based on Supabase |
 
 ### 🎓 Educational Apps
+
+*All apps published on [www.skolappar.com](https://www.skolappar.com) - a community for vibe coding parents*
+
 | Project | Description |
 |---------|-------------|
 | [mathmaster](https://github.com/magnusfroste/mathmaster) | Multiplication mastery game |
