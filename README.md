@@ -34,7 +34,7 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [**private-ai-chatspace**](https://github.com/magnusfroste/private-ai-chatspace) | FastAPI · React · Qdrant · LanceDB | Private AI chat with RAG, dual vector stores, hybrid search (semantic + BM25), Docling PDF processing with OCR, and intelligent tool calling. Inspired by AnythingLLM but simpler. |
 | [mlx-ml](https://github.com/magnusfroste/mlx-ml) | Python · Apple MLX | ML experiments and fine-tuning with Apple's MLX framework for M-series chips |
 | [lmstudio-agents](https://github.com/magnusfroste/lmstudio-agents) | TypeScript · LM Studio | Agentic AI workflows and tool calling for local LLMs |
-| [lazyjames-research](https://github.com/magnusfroste/lazyjames-research) | Python · PyTorch | AI/ML research and experimentation |
+| [scout-in](https://github.com/magnusfroste/scout-in) | TypeScript · React | Scout management system and event coordination |
 | [garageai](https://github.com/magnusfroste/garageai) | Python | Experimental AI projects and prototypes |
 
 ### 📊 Analytics & Business Tools
@@ -47,6 +47,8 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [shoplifting-rtsp-analyzer](https://github.com/magnusfroste/shoplifting-rtsp-analyzer) | Python · OpenCV | RTSP stream analyzer for retail security and gesture detection |
 | [audiostats](https://github.com/magnusfroste/audiostats) | React · Supabase | Audio analytics and statistics dashboard |
 | [aircount](https://github.com/magnusfroste/aircount) | React · Supabase | Modern accounting application |
+| [shop-analytics](https://github.com/magnusfroste/shop-analytics) | React · Python | Retail analytics and sales tracking |
+| [penpal](https://github.com/magnusfroste/penpal) | React · Supabase | Digital pen pal connection platform |
 
 ### 💬 Chat & Communication
 
@@ -79,6 +81,7 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [map-game](https://github.com/magnusfroste/map-game) | React · Supabase | Interactive geography challenges |
 | [codeadventure](https://github.com/magnusfroste/codeadventure) | React · Supabase | Learn programming through adventure |
 | [scenskolan](https://github.com/magnusfroste/scenskolan) | React · Supabase | Theater school management system |
+| [chatexam](https://github.com/magnusfroste/chatexam) | React · Gemini AI | AI-powered exam tutor for Swedish university entrance exam |
 
 **Entertainment & Seasonal**
 
@@ -96,8 +99,10 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 |---------|------------|-------------|
 | [openjobs-api](https://github.com/magnusfroste/openjobs-api) | FastAPI · Python | Open job listings API with search and filtering |
 | [marker-api](https://github.com/magnusfroste/marker-api) | Python · FastAPI | PDF to Markdown conversion API with OCR support |
-| [domainproxy](https://github.com/magnusfroste/domainproxy) | Go | High-performance domain proxy service |
-| [domain-proxy-saas](https://github.com/magnusfroste/domain-proxy-saas) | React · Go | SaaS platform for domain proxy management |
+| [subdomains-proxy](https://github.com/magnusfroste/subdomains-proxy) | Go | High-performance subdomain proxy service |
+| [domain-proxy-saas](https://github.com/magnusfroste/domain-proxy-saas) | React · Go | SaaS platform for subdomain proxy management |
+| [screencastme-chrome](https://github.com/magnusfroste/screencastme-chrome) | TypeScript · Chrome | Chrome extension for screen recording and sharing |
+| [siliconsoap](https://github.com/magnusfroste/siliconsoap) | Python · FastAPI | SOAP API integration service for modern applications |
 
 ### 📄 Productivity & Utilities
 
@@ -109,6 +114,8 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [painpal](https://github.com/magnusfroste/painpal) | React · Supabase | Pain tracking and health monitoring app |
 | [adlink](https://github.com/magnusfroste/adlink) | React | Ad linking and tracking service |
 | [crypto-ledger](https://github.com/magnusfroste/crypto-ledger) | React · Supabase | Cryptocurrency transaction ledger |
+| [airledger](https://github.com/magnusfroste/airledger) | React · Supabase | Modern cryptocurrency ledger with real-time updates |
+| [lazyjobs-app](https://github.com/magnusfroste/lazyjobs-app) | React · Supabase | Job application tracking and management |
 
 ## Tech Philosophy
 
