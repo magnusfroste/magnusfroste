@@ -81,7 +81,7 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [map-game](https://github.com/magnusfroste/map-game) | React · Supabase | Interactive geography challenges |
 | [codeadventure](https://github.com/magnusfroste/codeadventure) | React · Supabase | Learn programming through adventure |
 | [scenskolan](https://github.com/magnusfroste/scenskolan) | React · Supabase | Theater school management system |
-| [chatexam](https://github.com/magnusfroste/chatexam) | React · Gemini AI | AI-powered exam tutor for Swedish university entrance exam |
+| [chatexam](https://github.com/magnusfroste/chatexam) | React · Gemini AI (Frontend Only) | AI-powered exam tutor for Swedish university entrance exam - no backend required |
 
 **Entertainment & Seasonal**
 
