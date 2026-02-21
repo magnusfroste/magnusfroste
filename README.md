@@ -34,6 +34,7 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [**private-ai-chatspace**](https://github.com/magnusfroste/private-ai-chatspace) | FastAPI · React · Qdrant · LanceDB | Private AI chat with RAG, dual vector stores, hybrid search (semantic + BM25), Docling PDF processing with OCR, and intelligent tool calling. Inspired by AnythingLLM but simpler. |
 | [mlx-ml](https://github.com/magnusfroste/mlx-ml) | Python · Apple MLX | ML experiments and fine-tuning with Apple's MLX framework for M-series chips |
 | [lmstudio-agents](https://github.com/magnusfroste/lmstudio-agents) | TypeScript · LM Studio | Agentic AI workflows and tool calling for local LLMs |
+| [**siliconsoap**](https://github.com/magnusfroste/siliconsoap) | React · TypeScript · Supabase · OpenRouter | Multi-agent AI debate platform — pit 20+ open-weight models (Llama, Mistral, DeepSeek, Qwen) against each other in dramatic conversations with custom personas and AI-powered analysis. Live at [siliconsoap.com](https://siliconsoap.com) |
 | [scout-in](https://github.com/magnusfroste/scout-in) | TypeScript · React | Scout management system and event coordination |
 | [garageai](https://github.com/magnusfroste/garageai) | Python | Experimental AI projects and prototypes |
 
@@ -102,7 +103,6 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [subdomains-proxy](https://github.com/magnusfroste/subdomains-proxy) | Go | High-performance subdomain proxy service |
 | [domain-proxy-saas](https://github.com/magnusfroste/domain-proxy-saas) | React · Go | SaaS platform for subdomain proxy management |
 | [screencastme-chrome](https://github.com/magnusfroste/screncastme-chrome) | TypeScript · Chrome | Chrome extension for screen recording and sharing |
-| [siliconsoap](https://github.com/magnusfroste/siliconsoap) | Python · FastAPI | SOAP API integration service for modern applications |
 
 ### 📄 Productivity & Utilities
 
