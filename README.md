@@ -101,7 +101,7 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [marker-api](https://github.com/magnusfroste/marker-api) | Python · FastAPI | PDF to Markdown conversion API with OCR support |
 | [subdomains-proxy](https://github.com/magnusfroste/subdomains-proxy) | Go | High-performance subdomain proxy service |
 | [domain-proxy-saas](https://github.com/magnusfroste/domain-proxy-saas) | React · Go | SaaS platform for subdomain proxy management |
-| [screencastme-chrome](https://github.com/magnusfroste/screencastme-chrome) | TypeScript · Chrome | Chrome extension for screen recording and sharing |
+| [screencastme-chrome](https://github.com/magnusfroste/screncastme-chrome) | TypeScript · Chrome | Chrome extension for screen recording and sharing |
 | [siliconsoap](https://github.com/magnusfroste/siliconsoap) | Python · FastAPI | SOAP API integration service for modern applications |
 
 ### 📄 Productivity & Utilities
