@@ -9,7 +9,14 @@ I build AI-powered solutions that bridge innovation with practical business appl
 
 ## Current Focus
 
-Building AI-powered solutions and exploring agentic AI systems. Working on projects that bridge innovation with practical business applications.
+**[Clawable — The Agentic AI Handbook](https://www.clawable.org)** 🌟
+The open-source field report on autonomous agents — three editions for leaders, builders, and operators.
+
+- **Business Edition** — What autonomous agents are doing to business operating systems right now, with real production numbers
+- **Builder Edition** — Technical architecture: OpenClaw internals, governance patterns, A2A federation, 33+ chapters
+- **Learning Operator** *(2027)* — What happens when the operator starts building its own capabilities
+
+[Read the handbook](https://www.clawable.org) · [Contribute on GitHub](https://github.com/magnusfroste/clawable)
 
 ## Technical Expertise
 
@@ -19,10 +26,17 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 
 - **60+ Open Source Projects** - All MIT licensed and production-ready
 - **AI & RAG Systems** - Advanced retrieval-augmented generation with dual vector stores
-- **Educational Platform** - 13+ learning apps serving thousands of students at [skolappar.com](https://www.skolappar.com)
+- **AI Infrastructure** - Private inference systems for self-hosted LLMs
 - **Full-Stack Development** - From ML models to production deployments
 
 ## Projects
+
+### 🌊 CMS & Content Management
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [**flowwink**](https://github.com/magnusfroste/flowwink) | React · Supabase | Open-source AI-native Business Operating System with built-in autonomous agent and 200 exposed MCP skills. Autonomous agentic web that runs your business while you sleep!|
+| [**mycms-space**](https://github.com/magnusfroste/mycms-space) | React · Supabase | Self-hostable CMS that transforms any website into a dynamic, AI-powered digital assistant. Conversational AI widget that engages visitors 24/7. |
 
 ### 🤖 AI & Machine Learning
 
@@ -43,7 +57,7 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| [**scout-out**](https://github.com/magnusfroste/scout-out) | React · TypeScript · Supabase | AI-powered B2B prospecting tool with company research, discovery question generation, and value proposition builder. Live at [scoutout.liteit.se](https://scoutout.liteit.se) |
+| [**scout-out**](https://github.com/magnusfroste/scout-out) | React · TypeScript · Supabase | AI-powered B2B prospecting tool with company research, discovery question generation, and value proposition builder |
 | [**telelog-analytics**](https://github.com/magnusfroste/telelog-analytics) | React · OpenAI · Anthropic | AI-powered Telegram conversation analytics with multi-model support (GPT-4 + Claude) and sentiment analysis. |
 | [**quickpitch**](https://github.com/magnusfroste/quickpitch) | React · OpenAI · Agora RTC | AI-powered pitch practice platform with real-time video recording and GPT-4 feedback. 20-minute timer, 5-slide limit format. |
 | [**audiostats**](https://github.com/magnusfroste/audiostats) | React · Supabase | "Anna" — a smart meeting companion that turns raw audio recordings into actionable team insights. Transcription, key moments, speaker insights, and summaries. |
@@ -62,52 +76,8 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [**james-pwa-n8n**](https://github.com/magnusfroste/james-pwa-n8n) | React · TypeScript · PWA | AI-powered conversational agent PWA for native-like iOS experience. Voice and text conversations with real-time transcription and quick emotion buttons. |
 | [**stupid-simple-meet**](https://github.com/magnusfroste/stupid-simple-meet) | Vanilla JS · WebRTC | Ultra-minimal audio/video conferencing. Click one button, grant access, join peer-to-peer stream. No accounts, no room codes, no downloads. |
 
-### 🌊 CMS & Content Management
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| [**flowwink**](https://github.com/magnusfroste/flowwink) | React · Supabase | Open-source AI-native CMS with built-in content generation and management. Autonomous agentic web that runs your business with 37+ skills. |
-| [**mycms-space**](https://github.com/magnusfroste/mycms-space) | React · Supabase | Self-hostable CMS that transforms any website into a dynamic, AI-powered digital assistant. Conversational AI widget that engages visitors 24/7. |
 
-### 🎮 Games & Education
-
-*All apps published on [www.skolappar.com](https://www.skolappar.com) - a community for vibe coding parents*
-
-**Educational Games** - Making learning fun through interactive experiences
-
-| Project | Tech Stack | Focus Area |
-|---------|------------|------------|
-| [**mathmaster**](https://github.com/magnusfroste/mathmaster) | React · Supabase | Multiplication mastery with gamification. "Multiplikationsmästaren" - engage kids in math practice. |
-| [**geogeniet**](https://github.com/magnusfroste/geogeniet) | React · Supabase | Interactive geometry learning. "Geometri" - master geometric concepts through play. |
-| [**korsord**](https://github.com/magnusfroste/korsord) | React · Supabase | Swedish crossword puzzles for vocabulary building. |
-| [**wordris**](https://github.com/magnusfroste/wordris) | React · Supabase | Word puzzle game with Tetris-style mechanics. |
-| [**multiply-magic**](https://github.com/magnusfroste/multiply-magic) | React · Supabase | Magical multiplication practice for young learners. |
-| [**map-game**](https://github.com/magnusfroste/map-game) | React · Supabase | Interactive geography challenges and world knowledge. |
-| [**codeadventure**](https://github.com/magnusfroste/codeadventure) | React · Supabase | Learn programming fundamentals through interactive adventure stories. |
-| [**scenskolan**](https://github.com/magnusfroste/scenskolan) | React · Supabase | Acting skills refinement and character dialogue practice for drama students. |
-| [**chatexam**](https://github.com/magnusfroste/chatexam) | React · Gemini AI | AI-powered exam tutor for Swedish university entrance exam ("Högskoleprovet"). Frontend-only, no backend required. |
-| [**quizla**](https://github.com/magnusfroste/quizla) | React · AI | Interactive learning platform that tailors quizzes to each user's knowledge level using AI. |
-
-**Entertainment & Utilities**
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| [**julkalendern**](https://github.com/magnusfroste/julkalendern) | React · Supabase · OpenAI | Sugar-free AI-assisted Santa Calendar. Daily messages from Santa with conversational AI integration using OpenAI's multi-modal services. |
-| [**pusselmagi**](https://github.com/magnusfroste/pusselmagi) | React · Supabase | Magical puzzle game with enchanting challenges. |
-| [**brickpussel**](https://github.com/magnusfroste/brickpussel) | React · Supabase | Brick puzzle challenges and spatial reasoning games. |
-| [**roleplaygame**](https://github.com/magnusfroste/roleplaygame) | React · Supabase | Interactive roleplay game platform for collaborative storytelling. |
-| [**skolappar**](https://github.com/magnusfroste/skolappar) | React · Supabase | Community platform for parents to share homemade educational apps and learning tools. |
-
-### 🛠️ Developer Tools & APIs
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| [**openjobs-api**](https://github.com/magnusfroste/openjobs-api) | FastAPI · Python | Dynamic job aggregation platform with microservices architecture. Unified API aggregating listings from multiple sources. |
-| [**marker-api**](https://github.com/magnusfroste/marker-api) | Python · FastAPI | PDF to Markdown conversion API using Marker. Easypanel-optimized deployment with robust document conversion tools. |
-| [**subdomains-proxy**](https://github.com/magnusfroste/subdomains-proxy) | Go | Open-source, API-first subdomain proxy with automatic HTTPS. Node.js, Caddy, and Docker-powered zero-manual-cert solution. |
-| [**domain-proxy-saas**](https://github.com/magnusfroste/domain-proxy-saas) | React · Go | SaaS starter kit for building applications with effortless domain management. Multi-tenant architecture with user authentication. |
-| [**screncastme-chrome**](https://github.com/magnusfroste/screencastme-chrome) | TypeScript · Chrome Extension | Lightweight screen recording Chrome extension with draggable webcam overlay, audio capture, and built-in trim editor. |
-| [**helplix-legal**](https://github.com/magnusfroste/helplix-legal) | React · AI | Mobile-first dictation app for documenting legal cases. AI agents ask targeted questions across 7 phases with real-time jurisdiction-specific guidance. |
 
 ### 📄 Productivity & Utilities
 
@@ -120,6 +90,44 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [**timeslot**](https://github.com/magnusfroste/timeslot) | React · Supabase | Streamlined scheduling solution for seamless collaboration. Eliminates cross-organizational scheduling complexity. |
 | [**lazyjobs-app**](https://github.com/magnusfroste/lazyjobs-app) | React · AI | Job search reimagined with AI-driven matching. Upload CV and get curated job opportunities from diverse sources. |
 | [**adlink**](https://github.com/magnusfroste/adlink) | React | Comprehensive link management for content creators. Transform paywalled resources into monetized, shareable links with strategic ad placements. |
+
+### 🎮 Games & Education — [skolappar.com](https://www.skolappar.com)
+
+*20+ learning apps serving students — a community for vibe coding parents*
+
+| [**skolappar**](https://github.com/magnusfroste/skolappar) | Community platform for parents to share educational apps |
+
+**Educational Games**
+
+| Project | Description |
+|---------|-------------|
+| [**mathmaster**](https://github.com/magnusfroste/mathmaster) | Multiplication mastery with gamification |
+| [**multiply-magic**](https://github.com/magnusfroste/multiply-magic) | Magical multiplication practice for young learners |
+| [**geogeniet**](https://github.com/magnusfroste/geogeniet) | Interactive geometry learning through play |
+| [**map-game**](https://github.com/magnusfroste/map-game) | Interactive geography challenges and world knowledge |
+| [**korsord**](https://github.com/magnusfroste/korsord) | Swedish crossword puzzles for vocabulary building |
+| [**wordris**](https://github.com/magnusfroste/wordris) | Word puzzle game with Tetris-style mechanics |
+| [**codeadventure**](https://github.com/magnusfroste/codeadventure) | Learn programming through interactive adventure stories |
+| [**scenskolan**](https://github.com/magnusfroste/scenskolan) | Acting skills and character dialogue practice |
+| [**chatexam**](https://github.com/magnusfroste/chatexam) | AI-powered tutor for Swedish university entrance exam (Högskoleprovet) |
+| [**quizla**](https://github.com/magnusfroste/quizla) | AI-tailored quizzes adapting to each student's level |
+| [**julkalendern**](https://github.com/magnusfroste/julkalendern) | AI-assisted Santa Calendar with daily messages and conversational AI |
+| [**pusselmagi**](https://github.com/magnusfroste/pusselmagi) | Magical puzzle game with enchanting challenges |
+| [**brickpussel**](https://github.com/magnusfroste/brickpussel) | Brick puzzle challenges and spatial reasoning games |
+| [**roleplaygame**](https://github.com/magnusfroste/roleplaygame) | Interactive roleplay for collaborative storytelling |
+
+
+### 🛠️ Developer Tools & APIs
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [**openjobs-api**](https://github.com/magnusfroste/openjobs-api) | FastAPI · Python | Dynamic job aggregation platform with microservices architecture. Unified API aggregating listings from multiple sources. |
+| [**marker-api**](https://github.com/magnusfroste/marker-api) | Python · FastAPI | PDF to Markdown conversion API using Marker. Easypanel-optimized deployment with robust document conversion tools. |
+| [**subdomains-proxy**](https://github.com/magnusfroste/subdomains-proxy) | Go | Open-source, API-first subdomain proxy with automatic HTTPS. Node.js, Caddy, and Docker-powered zero-manual-cert solution. |
+| [**domain-proxy-saas**](https://github.com/magnusfroste/domain-proxy-saas) | React · Go | SaaS starter kit for building applications with effortless domain management. Multi-tenant architecture with user authentication. |
+| [**screncastme-chrome**](https://github.com/magnusfroste/screencastme-chrome) | TypeScript · Chrome Extension | Lightweight screen recording Chrome extension with draggable webcam overlay, audio capture, and built-in trim editor. |
+| [**helplix-legal**](https://github.com/magnusfroste/helplix-legal) | React · AI | Mobile-first dictation app for documenting legal cases. AI agents ask targeted questions across 7 phases with real-time jurisdiction-specific guidance. |
+
 
 ### 🎵 Media & Entertainment
 
