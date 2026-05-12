@@ -18,6 +18,13 @@ The open-source field report on autonomous agents — three editions for leaders
 
 [Read the handbook](https://www.clawable.org) · [Contribute on GitHub](https://github.com/magnusfroste/clawable)
 
+**[ClawStack — Multi-Tenant Agent Infrastructure](https://github.com/magnusfroste/clawstack)** 🌟
+One server, unlimited autonomous AI agents. The infrastructure layer above OpenClaw — hosting, role presets, and A2A swarm orchestration.
+
+- **Auto-everything** — Domains, HTTPS, container lifecycle, API keys — handled automatically
+- **Role presets** — QA, SEO, dev, support, research, FlowWink operator — agents boot ready to work
+- **A2A swarm** — Agent-to-Agent communication built into the proxy layer with peer discovery
+
 ## Technical Expertise
 
 Working with modern AI infrastructure: self-hosted LLM deployments, open weights models, fine-tuning workflows, and production-ready MLOps pipelines. From local development to cloud deployments.
@@ -53,6 +60,19 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [**private-whisper-agent**](https://github.com/magnusfroste/private-whisper-agent) | Python · Whisper | Privacy-first speech-to-text platform with agentic chat workflows. Benchmark whisper models and optimize speech interactions without compromising user data privacy. |
 | [**scout-in**](https://github.com/magnusfroste/scout-in) | TypeScript · React · Supabase | Research sandbox for rapid prototyping and testing of AI and machine learning ideas. Clean, modern web app with responsive design for experimenting with models and algorithms. |
 
+
+### 📄 Productivity & Utilities
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [**notton**](https://github.com/magnusfroste/notton) | React · Supabase · AI | Sophisticated cloud-based note-taking with Apple Notes elegance. AI capabilities for semantic search and chat assistant. |
+| [**certera**](https://github.com/magnusfroste/certera) | React · AI | Blockchain Verified Diplomas with animated CSS/HTML outputs. AI extracts branding from websites for stunning diploma designs. |
+| [**painpal**](https://github.com/magnusfroste/painpal) | React · Supabase · AI | Migraine tracking adventure for children. AI-powered assistance makes headache diary an engaging journey. |
+| [**timeslot**](https://github.com/magnusfroste/timeslot) | React · Supabase | Streamlined scheduling solution for seamless collaboration. Eliminates cross-organizational scheduling complexity. |
+| [**lazyjobs-app**](https://github.com/magnusfroste/lazyjobs-app) | React · AI | Job search reimagined with AI-driven matching. Upload CV and get curated job opportunities from diverse sources. |
+| [**adlink**](https://github.com/magnusfroste/adlink) | React | Comprehensive link management for content creators. Transform paywalled resources into monetized, shareable links with strategic ad placements. |
+
+
 ### 📊 Analytics & Business Intelligence
 
 | Project | Tech Stack | Description |
@@ -79,18 +99,6 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 
 
 
-### 📄 Productivity & Utilities
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| [**notton**](https://github.com/magnusfroste/notton) | React · Supabase · AI | Sophisticated cloud-based note-taking with Apple Notes elegance. AI capabilities for semantic search and chat assistant. |
-| [**certera**](https://github.com/magnusfroste/certera) | React · AI | Blockchain Verified Diplomas with animated CSS/HTML outputs. AI extracts branding from websites for stunning diploma designs. |
-| [**painpal**](https://github.com/magnusfroste/painpal) | React · Supabase · AI | Migraine tracking adventure for children. AI-powered assistance makes headache diary an engaging journey. |
-| [**penpal**](https://github.com/magnusfroste/penpal) | React · Supabase · AI | Handwriting practice platform for kids. AI analyzes handwriting and provides personalized practice recommendations with rewards. |
-| [**timeslot**](https://github.com/magnusfroste/timeslot) | React · Supabase | Streamlined scheduling solution for seamless collaboration. Eliminates cross-organizational scheduling complexity. |
-| [**lazyjobs-app**](https://github.com/magnusfroste/lazyjobs-app) | React · AI | Job search reimagined with AI-driven matching. Upload CV and get curated job opportunities from diverse sources. |
-| [**adlink**](https://github.com/magnusfroste/adlink) | React | Comprehensive link management for content creators. Transform paywalled resources into monetized, shareable links with strategic ad placements. |
-
 ### 🎮 Games & Education — [skolappar.com](https://www.skolappar.com)
 
 *20+ learning apps serving students — a community for vibe coding parents*
@@ -115,6 +123,7 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [**pusselmagi**](https://github.com/magnusfroste/pusselmagi) | Magical puzzle game with enchanting challenges |
 | [**brickpussel**](https://github.com/magnusfroste/brickpussel) | Brick puzzle challenges and spatial reasoning games |
 | [**roleplaygame**](https://github.com/magnusfroste/roleplaygame) | Interactive roleplay for collaborative storytelling |
+| [**penpal**](https://github.com/magnusfroste/penpal) | React · Supabase · AI | Handwriting practice platform for kids. AI analyzes handwriting and provides personalized practice recommendations with rewards. |
 
 
 ### 🛠️ Developer Tools & APIs
