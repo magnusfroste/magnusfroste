@@ -16,7 +16,7 @@ The open-source field report on autonomous agents — three editions for leaders
 - **Builder Edition** — Technical architecture: OpenClaw internals, governance patterns, A2A federation, 33+ chapters
 - **Learning Operator** *(2027)* — What happens when the operator starts building its own capabilities
 
-[Read the handbook](https://www.clawable.org) · [Contribute on GitHub](https://github.com/magnusfroste/clawable)
+[Read the handbook](https://www.clawable.org) · [Contribute on GitHub](https://github.com/magnusfroste/clawable_handbook)
 
 **[ClawStack — Multi-Tenant Agent Infrastructure](https://github.com/magnusfroste/clawstack)** 🌟
 One server, unlimited autonomous AI agents. The infrastructure layer above OpenClaw — hosting, role presets, and A2A swarm orchestration.
