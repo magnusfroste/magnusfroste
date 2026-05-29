@@ -18,7 +18,7 @@ The open-source field report on autonomous agents — three editions for leaders
 
 [Read the handbook](https://www.clawable.org) · [Contribute on GitHub](https://github.com/magnusfroste/clawable_handbook)
 
-**[ClawStack — Multi-Tenant Agent Infrastructure](https://github.com/magnusfroste/clawstack)** 🌟
+**[ClawClass — Multi-Tenant Agent Infrastructure](https://github.com/magnusfroste/clawClass)** 🌟
 One server, unlimited autonomous AI agents. The infrastructure layer above OpenClaw — hosting, role presets, and A2A swarm orchestration.
 
 - **Auto-everything** — Domains, HTTPS, container lifecycle, API keys — handled automatically
