@@ -1,29 +1,18 @@
 # Hi, I'm Magnus 👋
 
-📍 Sweden | 🤖 Innovation Strategist & Agentic AI Expert | 🚀 Product Developer
+📍 Sweden | 🤖 Chief Agent Officer & Agent Engineer | 🚀 Product Developer
 
-I build AI-powered solutions that bridge innovation with practical business applications. Deep in vibe-coding mode – creating production-ready tools at ludicrous speed while maintaining quality and functionality.
+I design and ship autonomous AI agent systems — from infrastructure to orchestration to production. Building the platforms that let agents run businesses, watch markets, and manage themselves, day and night.
 
 **Tech Stack:** TypeScript · React · Python · Go
 **License:** MIT · Open Source
 
-## Current Focus
+## 🌟 Featured
 
-**[Clawable — The Agentic AI Handbook](https://www.clawable.org)** 🌟
-The open-source field report on autonomous agents — three editions for leaders, builders, and operators.
-
-- **Business Edition** — What autonomous agents are doing to business operating systems right now, with real production numbers
-- **Builder Edition** — Technical architecture: OpenClaw internals, governance patterns, A2A federation, 33+ chapters
-- **Learning Operator** *(2027)* — What happens when the operator starts building its own capabilities
-
-[Read the handbook](https://www.clawable.org) · [Contribute on GitHub](https://github.com/magnusfroste/clawable_handbook)
-
-**[ClawClass — Multi-Tenant Agent Infrastructure](https://github.com/magnusfroste/clawClass)** 🌟
-One server, unlimited autonomous AI agents. The infrastructure layer above OpenClaw — hosting, role presets, and A2A swarm orchestration.
-
-- **Auto-everything** — Domains, HTTPS, container lifecycle, API keys — handled automatically
-- **Role presets** — QA, SEO, dev, support, research, FlowWink operator — agents boot ready to work
-- **A2A swarm** — Agent-to-Agent communication built into the proxy layer with peer discovery
+- **[Clawable](https://www.clawable.org)** — The open-source field report on autonomous agents. Three editions for leaders, builders, and operators.
+- **[Flowwink](https://www.flowwink.com)** — AI-native Business Operating System with a built-in autonomous agent and 200 exposed MCP skills.
+- **[AgentHotel](https://github.com/magnusfroste/agenthotel)** — Self-hosted control panel for AI agents. Check them in, watch them work — isolated rooms, automatic HTTPS, built-in MCP server.
+- **[Agentanbud](https://www.agentanbud.se)** — Open Swedish public procurement data — free, searchable, no paywalls.
 
 ## Technical Expertise
 
@@ -52,6 +41,8 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
+| [**agenthotel**](https://github.com/magnusfroste/agenthotel) | React · Node.js · Docker · Caddy | Self-hosted control panel for AI agents — one VPS becomes a hotel with isolated rooms per agent (Hermes, OpenClaw, Odysseus, or any Docker app). Automatic HTTPS, resource guardrails, uptime monitoring, and a built-in MCP server. |
+| [**clawClass**](https://github.com/magnusfroste/clawClass) | TypeScript · OpenClaw | Multi-tenant agent infrastructure — one server, unlimited autonomous AI agents. Auto domains/HTTPS/container lifecycle, role presets, and A2A swarm orchestration. |
 | [**private-ai-chatspace**](https://github.com/magnusfroste/private-ai-chatspace) | FastAPI · React · Qdrant · LanceDB | Private AI chat with RAG, dual vector stores, hybrid search (semantic + BM25), Docling PDF processing with OCR, and intelligent tool calling. Inspired by AnythingLLM but simpler. |
 | [**siliconsoap**](https://github.com/magnusfroste/siliconsoap) | React · TypeScript · Supabase · OpenRouter | Multi-agent AI debate platform — pit 20+ open-weight models (Llama, Mistral, DeepSeek, Qwen) against each other in dramatic conversations with custom personas and AI-powered analysis. Live at [siliconsoap.com](https://siliconsoap.com) |
 | [**mlx-ml**](https://github.com/magnusfroste/mlx-ml) | Python · Apple MLX | ML experiments and fine-tuning with Apple's MLX framework for M-series chips. Simplifies LoRA fine-tuning, inference, and deployment workflows. |
@@ -130,6 +121,8 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
+| [**agentanbud**](https://github.com/magnusfroste/agentanbud) | FastAPI · Python · SQLite · Docker | Open procurement data aggregator — mirrors Swedish public tender data from Mercell and TED EU into a local SQLite database, served via FastAPI dashboard + JSON API. Single container, no cloud dependencies. Live at [agentanbud.se](https://www.agentanbud.se) |
+| [**tokenizer**](https://github.com/magnusfroste/tokenizer) | Go · OpenAI-Compatible Proxy | Low-latency model router — OpenAI-compatible gateway that intelligently routes prompts to the right model based on task, risk, cost, latency, policy, and outcome signals. Dashboard + streaming support, deploy to EasyPanel. |
 | [**openjobs-api**](https://github.com/magnusfroste/openjobs-api) | FastAPI · Python | Dynamic job aggregation platform with microservices architecture. Unified API aggregating listings from multiple sources. |
 | [**marker-api**](https://github.com/magnusfroste/marker-api) | Python · FastAPI | PDF to Markdown conversion API using Marker. Easypanel-optimized deployment with robust document conversion tools. |
 | [**subdomains-proxy**](https://github.com/magnusfroste/subdomains-proxy) | Go | Open-source, API-first subdomain proxy with automatic HTTPS. Node.js, Caddy, and Docker-powered zero-manual-cert solution. |
