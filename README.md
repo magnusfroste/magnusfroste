@@ -22,9 +22,9 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 ## 🌟 Highlights
 
 - **60+ Open Source Projects** - All MIT licensed and production-ready
-- **AI & RAG Systems** - Advanced retrieval-augmented generation with dual vector stores
-- **AI Infrastructure** - Private inference systems for self-hosted LLMs
-- **Full-Stack Development** - From ML models to production deployments
+- **Agent Infrastructure** - Self-hosted platforms for deploying, orchestrating, and monitoring autonomous AI agents at scale
+- **MCP & A2A Protocols** - Building the connective tissue between agents, tools, and business systems
+- **Full-Stack Development** - From agent runtime to production deployment
 
 ## Projects
 
@@ -36,9 +36,6 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [**mycms-space**](https://github.com/magnusfroste/mycms-space) | React · Supabase | Self-hostable CMS that transforms any website into a dynamic, AI-powered digital assistant. Conversational AI widget that engages visitors 24/7. |
 
 ### 🤖 AI & Machine Learning
-
-**Featured: Private AI Chatspace** 🌟
-*Self-hosted LLM chat with enterprise-grade RAG capabilities*
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
