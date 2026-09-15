@@ -13,6 +13,7 @@ I design and ship autonomous AI agent systems — from infrastructure to orchest
 - **[Flowwink](https://www.flowwink.com)** — AI-native Business Operating System with a built-in autonomous agent and 200 exposed MCP skills.
 - **[AgentHotel](https://github.com/magnusfroste/agenthotel)** — Self-hosted control panel for AI agents. Check them in, watch them work — isolated rooms, automatic HTTPS, built-in MCP server.
 - **[Agentanbud](https://www.agentanbud.se)** — Open Swedish public procurement data — free, searchable, no paywalls.
+- **[SiliconSoap](https://www.siliconsoap.com)** — 20+ AI models debate live, under pressure, in character. Benchmarks tell you what a model knows; SiliconSoap shows you how it actually reasons, bluffs, or folds when challenged — the eval that matters before you trust a model in production.
 
 ## Technical Expertise
 
