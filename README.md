@@ -12,7 +12,7 @@ I design and ship autonomous AI agent systems — from infrastructure to orchest
 - **[Clawable](https://www.clawable.org)** — The open-source field report on autonomous agents. Three editions for leaders, builders, and operators.
 - **[Flowwink](https://www.flowwink.com)** — AI-native Business Operating System with a built-in autonomous agent and 200 exposed MCP skills.
 - **[AgentHotel](https://github.com/magnusfroste/agenthotel)** — Self-hosted control panel for AI agents. Check them in, watch them work — isolated rooms, automatic HTTPS, built-in MCP server.
-- **[Agentanbud](https://www.agentanbud.se)** — Open Swedish public procurement data — free, searchable, no paywalls.
+- **[Agentanbud](https://www.agentanbud.se)** — The first platform built for AI agents in Swedish public procurement. Open tender data, no paywalls, MCP-native so your own agent can watch the market and flag what's worth your time.
 - **[SiliconSoap](https://www.siliconsoap.com)** — 20+ AI models debate live, under pressure, in character. Benchmarks tell you what a model knows; SiliconSoap shows you how it actually reasons, bluffs, or folds when challenged — the eval that matters before you trust a model in production.
 
 ## Technical Expertise
@@ -119,7 +119,7 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| [**agentanbud**](https://github.com/magnusfroste/agentanbud) | FastAPI · Python · SQLite · Docker | Open procurement data aggregator — mirrors Swedish public tender data from Mercell and TED EU into a local SQLite database, served via FastAPI dashboard + JSON API. Single container, no cloud dependencies. Live at [agentanbud.se](https://www.agentanbud.se) |
+| [**agentanbud**](https://github.com/magnusfroste/agentanbud) | FastAPI · Python · SQLite · Docker | The first platform built for AI agents in Swedish public procurement — mirrors tender data from Mercell and TED EU into a local SQLite database, served via FastAPI dashboard + JSON API + MCP. Single container, no cloud dependencies. Live at [agentanbud.se](https://www.agentanbud.se) |
 | [**tokenizer**](https://github.com/magnusfroste/tokenizer) | Go · OpenAI-Compatible Proxy | Low-latency model router — OpenAI-compatible gateway that intelligently routes prompts to the right model based on task, risk, cost, latency, policy, and outcome signals. Dashboard + streaming support, deploy to EasyPanel. |
 | [**openjobs-api**](https://github.com/magnusfroste/openjobs-api) | FastAPI · Python | Dynamic job aggregation platform with microservices architecture. Unified API aggregating listings from multiple sources. |
 | [**marker-api**](https://github.com/magnusfroste/marker-api) | Python · FastAPI | PDF to Markdown conversion API using Marker. Easypanel-optimized deployment with robust document conversion tools. |
