@@ -62,7 +62,6 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| [**private-ai-chatspace**](https://github.com/magnusfroste/private-ai-chatspace) | FastAPI · React · Qdrant · LanceDB | Private AI chat with RAG, dual vector stores, hybrid search (semantic + BM25), Docling PDF processing with OCR, and intelligent tool calling. Inspired by AnythingLLM but simpler. |
 | [**siliconsoap**](https://github.com/magnusfroste/siliconsoap) | React · TypeScript · Supabase · OpenRouter | Multi-agent AI debate platform — pit 20+ models against each other in dramatic conversations with custom personas and AI-powered analysis. Live at [siliconsoap.com](https://www.siliconsoap.com) |
 | [**garageai**](https://github.com/magnusfroste/garageai) | Astro · LiteLLM · NetBird | A marketplace for local AI inference in Europe — garage owners offer GPUs they already own, buyers call them through one OpenAI-compatible API (pool or a specific garage), and owners get paid per token. Encrypted WireGuard mesh behind an EU gateway. Live at [garageai.eu](https://www.garageai.eu) · portal at [app.garageai.eu](https://app.garageai.eu) |
 | [**vllm-cluster-spark**](https://github.com/magnusfroste/vllm-cluster-spark) | Python · vLLM · Ray | **vLLM Panel** — run, administer and monitor vLLM on your own DGX Spark, one box or a multi-node cluster: model library and downloads, per-node GPU temperature, power and memory, tokens/s, tokens per kWh, and auto-recover. |
@@ -70,7 +69,6 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [**garageai-portal**](https://github.com/magnusfroste/garageai-portal) | TypeScript · LiteLLM | Customer portal for a LiteLLM proxy — virtual keys, spend limits and usage per customer. |
 | [**private-whisper-agent**](https://github.com/magnusfroste/private-whisper-agent) | Python · Whisper | Fully local voice AI stack (STT → LLM → TTS) — your audio never leaves your server. |
 | [**acestep**](https://github.com/magnusfroste/acestep) | Docker · NVIDIA GPU | Self-hosted AI music generation with ACE-Step 1.5, GPU-accelerated. |
-| [**mlx-ml**](https://github.com/magnusfroste/mlx-ml) | Python · Apple MLX | LoRA fine-tuning, inference and deployment with Apple's MLX framework on M-series chips — one config.yaml. |
 | [**lmstudio-agents**](https://github.com/magnusfroste/lmstudio-agents) | Python · LM Studio | Mini framework for agentic tool calling with local LLMs. |
 
 ### 📄 Productivity & Utilities
@@ -92,9 +90,7 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [**airledger**](https://github.com/magnusfroste/airledger) | React · Supabase · AI | AI-powered bookkeeping assistant that automates financial tracking, data parsing, and reporting while adhering to Swedish accounting standards. Live at [airledger.se](https://www.airledger.se) |
 | [**sie-parser**](https://github.com/magnusfroste/sie-parser) | TypeScript | Transforms Swedish bookkeeping data (SIE 4 files) into structured, LLM-friendly JSON for financial analysis. |
 | [**shop-analytics**](https://github.com/magnusfroste/shop-analytics) | React · Python | Retail analytics with AI-powered recommendations to boost sales, built on LLMs over visitor data. |
-| [**shoplifting-rtsp-analyzer**](https://github.com/magnusfroste/shoplifting-rtsp-analyzer) | Python · React · OpenCV | Pre-flight validation of RTSP camera streams for [anavid.ai](https://anavid.ai) shoplifting detection — frame rate, bitrate and visual snapshots. |
 | [**telelog-analytics**](https://github.com/magnusfroste/telelog-analytics) | React · OpenAI · Anthropic | AI-powered Telegram conversation analytics with multi-model support and sentiment analysis. |
-| [**audiostats**](https://github.com/magnusfroste/audiostats) | React · Supabase | "Anna" — a meeting companion that turns raw audio recordings into team insights: transcription, key moments, speaker insights, and summaries. |
 | [**quickpitch**](https://github.com/magnusfroste/quickpitch) | React · OpenAI · Agora RTC | Pitch practice with real-time video recording and AI feedback. 20-minute timer, 5-slide limit format. |
 | [**aircount**](https://github.com/magnusfroste/aircount) | React · Supabase | Accounting for individuals and small businesses — dashboard, transaction tracking, and CSV/SIE import/export. |
 | [**crypto-ledger**](https://github.com/magnusfroste/crypto-ledger) | React · Supabase | Manage and track cryptocurrency transactions. |
