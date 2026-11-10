@@ -14,23 +14,18 @@ I design and ship autonomous AI agent systems — from infrastructure to orchest
 - **[Clawable](https://www.clawable.org)** — The open-source field report on autonomous agents. Three editions for leaders, builders, and operators.
 - **[Flowwink](https://www.flowwink.com)** — AI-native Business Operating System with a built-in autonomous agent and 500+ MCP skills.
 - **[Sluss](https://www.sluss.eu)** — The data-sovereign LLM gateway. Your teams already use AI — decide where the data goes, and prove it. Deterministic routing, fail-closed egress, tamper-evident audit for NIS2/DORA/GDPR.
-- **[vLLM Panel](https://github.com/magnusfroste/vllm-cluster-spark)** — Private AI on your own NVIDIA DGX Spark, one box or a cluster. An easy-setup panel to run, administer and monitor vLLM: pick a model, download it, start it — and watch load, tokens, GPU temperature, power draw and tokens per kWh on every node.
-- **[GarageAI](https://www.garageai.eu)** — Your garage, Europe's AI engine. A marketplace for local AI inference: garage owners offer the GPUs they already own, buyers call them through one OpenAI-compatible API and pay per token, and the money goes to the people who own the hardware. Encrypted WireGuard tunnels to an EU gateway, no inbound ports, no platform in between the data and the machine.
-- **[AgentHotel](https://github.com/magnusfroste/agenthotel)** — Self-hosted control panel for AI agents. Any agent, on any model: Hermes, OpenClaw or any open-source harness, each always on in its own room with automatic HTTPS, shared memory between guests, and a built-in MCP server. Check them in, watch them work.
-- **[AgentTake](https://agenttake.clawable.org)** — Hands the camera to your agent. An MCP server that lets any AI agent drive a real browser, narrate on the beat, move the camera and walk away with a polished MP4 — the agent that knows your product is the best director you'll ever hire. Runs anywhere with Docker, or in AgentHotel as Take. *(Formerly Reel-studio.)*
+- **[vLLM Panel](https://github.com/magnusfroste/vllm-cluster-spark)** — Private AI on your own NVIDIA DGX Spark, one box or a cluster. Pick a model, start it, and watch load, GPU temperature, power draw and tokens per kWh on every node.
+- **[GarageAI](https://www.garageai.eu)** — Your garage, Europe's AI engine. Garage owners offer the GPUs they already own, buyers call them through one OpenAI-compatible API and pay per token — over encrypted tunnels to an EU gateway, no platform between the data and the machine.
+- **[AgentHotel](https://github.com/magnusfroste/agenthotel)** — Self-hosted control panel for AI agents. Hermes, OpenClaw or any open-source harness, each always on in its own room with automatic HTTPS, shared memory and a built-in MCP server. Check them in, watch them work.
+- **[AgentTake](https://agenttake.clawable.org)** — Hands the camera to your agent. An MCP server that lets any agent drive a real browser, narrate on the beat and walk away with a polished MP4 — the agent that knows your product is the best director you'll ever hire. *(Formerly Reel-studio.)*
 - **[Agentanbud](https://www.agentanbud.se)** — The first platform built for AI agents in Swedish public procurement. Open tender data, no paywalls, MCP-native so your own agent can watch the market and flag what's worth your time.
-- **[SiliconSoap](https://www.siliconsoap.com)** — 20+ AI models debate live, under pressure, in character. Benchmarks tell you what a model knows; SiliconSoap shows you how it actually reasons, bluffs, or folds when challenged — the eval that matters before you trust a model in production.
+- **[SiliconSoap](https://www.siliconsoap.com)** — 20+ AI models debate live, under pressure, in character. Benchmarks tell you what a model knows; SiliconSoap shows how it reasons, bluffs or folds when challenged — before you trust it in production.
 
-## Technical Expertise
+## ⚡ Highlights
 
-Working with modern AI infrastructure: self-hosted LLM deployments, open weights models, fine-tuning workflows, and production-ready MLOps pipelines. From local development to cloud deployments.
-
-## 🌟 Highlights
-
-- **80+ Open Source Projects** - Built in the open, production-ready
-- **Agent Infrastructure** - Self-hosted platforms for deploying, orchestrating, and monitoring autonomous AI agents at scale
-- **MCP & A2A Protocols** - Building the connective tissue between agents, tools, and business systems
-- **Full-Stack Development** - From agent runtime to production deployment
+- **75+ open-source projects** — built in the open, most of them running in production
+- **Agent infrastructure** — self-hosted platforms for deploying, orchestrating and monitoring autonomous agents
+- **MCP & A2A** — the connective tissue between agents, tools and business systems
 
 ## Projects
 
@@ -38,24 +33,24 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
+| [**flowwink**](https://github.com/magnusfroste/flowwink) | React · Supabase | Open-source AI-native Business Operating System with a built-in autonomous agent and 500+ MCP skills. CMS, CRM and ERP run by FlowPilot — or by Hermes, Claude, OpenClaw. Live at [flowwink.com](https://www.flowwink.com) |
 | [**sluss-eu**](https://github.com/magnusfroste/sluss-eu) | Go · SQLite | Data-sovereign LLM gateway — every prompt classified by deterministic rules (no LLM in the decision), routed fail-closed to your own, EU or the cheapest capable cloud model, and logged in a hash-chained audit trail. One static binary, OpenAI + Anthropic wire formats. Live at [sluss.eu](https://www.sluss.eu) |
 | [**agenthotel**](https://github.com/magnusfroste/agenthotel) | React · Node.js · Docker · Caddy | Self-hosted control panel for AI agents — one VPS becomes a hotel with isolated rooms per agent (Hermes, OpenClaw, Odysseus, or any Docker app). Automatic HTTPS, resource guardrails, uptime monitoring, and a built-in MCP server. |
 | [**skillhub**](https://github.com/magnusfroste/skillhub) | Supabase · Kong · MCP | SharePoint for agents, starting with skills. A shared store on self-hosted Supabase where each agent connects over MCP with its own key — reads everything public, writes its own, can't overwrite a colleague. Every write traceable. |
 | [**agentanbud**](https://github.com/magnusfroste/agentanbud) | FastAPI · Python · SQLite · Docker | The first platform built for AI agents in Swedish public procurement — mirrors tender data from Mercell and TED EU into a local SQLite database, served via dashboard, JSON API and MCP. Single container, no cloud dependencies. Live at [agentanbud.se](https://www.agentanbud.se) |
 | [**agenttake**](https://github.com/magnusfroste/agenttake) | Python · MCP · Docker | Turns any AI agent into a video director — it drives a real browser, narrates on the beat, moves the camera and renders a polished MP4. Bring your own agent. Formerly Reel-studio. Product page: [agenttake.clawable.org](https://agenttake.clawable.org) |
-| [**lobby**](https://github.com/magnusfroste/lobby) | Node.js · Markdown · MCP | A hotel for landing pages — one process, many domains, each site a single markdown file. No database, no build step; agents publish over MCP in ~150 ms. |
 | [**clawclass**](https://github.com/magnusfroste/clawclass) | JavaScript · OpenClaw | Multi-tenant agent infrastructure — one server, unlimited OpenClaw agents. Auto domains/HTTPS/container lifecycle, role presets, and A2A swarm orchestration. |
 | [**hermeshotel**](https://github.com/magnusfroste/hermeshotel) | Python · Docker · Caddy | Multi-agent Hermes platform — operator, customer and supplier agents with Flowwink MCP, private LLM, TUI control panel and fleet status web. |
 | [**agenttable**](https://github.com/magnusfroste/agenttable) | FastAPI · SQLite · MCP | Minimal Airtable-like storage for agents: CSV in → SQLite → MCP out. |
 | [**hermes-easy**](https://github.com/magnusfroste/hermes-easy) · [**openclaw-easy**](https://github.com/magnusfroste/openclaw-easy) · [**odysseus-easy**](https://github.com/magnusfroste/odysseus-easy) | Docker · Easypanel | The simplest way to run Hermes, OpenClaw and Odysseus on Easypanel — env-driven config, no build step. |
+| [**scout-out**](https://github.com/magnusfroste/scout-out) | React · TypeScript · Supabase | Prototype for AI-powered B2B prospecting and personalized outreach — the concept now lives on as the **Outreach** module in [Flowwink](https://www.flowwink.com). |
+| [**scout-in**](https://github.com/magnusfroste/scout-in) | React · TypeScript · Supabase | Prototype for AI-driven prospect and company research — the concept now lives on as the **Sales Intelligence** module in [Flowwink](https://www.flowwink.com). |
 
-### 🌊 CMS & Content Management
+### 🌐 CMS & Sites
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| [**flowwink**](https://github.com/magnusfroste/flowwink) | React · Supabase | Open-source AI-native Business Operating System with a built-in autonomous agent and 500+ MCP skills. CMS, CRM and ERP run by FlowPilot — or by Hermes, Claude, OpenClaw. |
-| [**scout-out**](https://github.com/magnusfroste/scout-out) | React · TypeScript · Supabase | Prototype for AI-powered B2B prospecting and personalized outreach — the concept now lives on as the **Outreach** module in [Flowwink](https://www.flowwink.com). |
-| [**scout-in**](https://github.com/magnusfroste/scout-in) | React · TypeScript · Supabase | Prototype for AI-driven prospect and company research — the concept now lives on as the **Sales Intelligence** module in [Flowwink](https://www.flowwink.com). |
+| [**lobby**](https://github.com/magnusfroste/lobby) | Node.js · Markdown · MCP | A hotel for landing pages — one process, many domains, each site a single markdown file. No database, no build step; agents publish over MCP in ~150 ms. |
 | [**mycms-space**](https://github.com/magnusfroste/mycms-space) | React · Supabase | Self-hostable CMS that transforms any website into a dynamic, AI-powered digital assistant. Conversational AI widget that engages visitors 24/7. |
 | [**markdownweb**](https://github.com/magnusfroste/markdownweb) | TanStack Start · Cloudflare Workers | A tiny CMS where every site is a single markdown file — built so an external AI agent can spin up and maintain dozens of sites over MCP. |
 
@@ -83,6 +78,7 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [**painpal**](https://github.com/magnusfroste/painpal) | React · Supabase · AI | Migraine tracking adventure for children. AI-powered assistance makes headache diary an engaging journey. |
 | [**md2pdf**](https://github.com/magnusfroste/md2pdf) | TypeScript | Convert Markdown files into styled, high-quality PDFs. |
 | [**adlink**](https://github.com/magnusfroste/adlink) | React | Link management for content creators. Transform paywalled resources into monetized, shareable links. |
+| [**soundspace**](https://github.com/magnusfroste/soundspace) | React · AI | Ambient music platform for businesses with curated playlists and AI-powered music generation with smart scheduling. |
 
 ### 📊 Analytics & Business Intelligence
 
@@ -115,12 +111,6 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 | [**marker-api**](https://github.com/magnusfroste/marker-api) | Python · FastAPI | PDF to Markdown conversion API using Marker, ready for Easypanel. |
 | [**screncastme-chrome**](https://github.com/magnusfroste/screncastme-chrome) | JavaScript · Chrome Extension | ScreenCastMe — screen recording with draggable webcam overlay, audio capture, and built-in trim editor. |
 
-### 🎵 Media & Entertainment
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| [**soundspace**](https://github.com/magnusfroste/soundspace) | React · AI | Ambient music platform for businesses with curated playlists and AI-powered music generation with smart scheduling. |
-
 ### 🎮 Games & Education — [skolappar.com](https://www.skolappar.com)
 
 *20+ learning apps serving students — a community platform where parents share home-made learning apps.*
@@ -146,6 +136,6 @@ Working with modern AI infrastructure: self-hosted LLM deployments, open weights
 
 ---
 
-💡 **80+ open-source projects** — feel free to use, modify, and learn from them! Most are MIT; [Sluss](https://github.com/magnusfroste/sluss-eu) is AGPL-3.0.
+💡 **75+ open-source projects** — feel free to use, modify, and learn from them! Most are MIT; [Sluss](https://github.com/magnusfroste/sluss-eu) is AGPL-3.0.
 
 ⭐ **Star your favorites** to show support and stay updated with new features!
