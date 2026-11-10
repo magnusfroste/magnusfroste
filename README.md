@@ -1,4 +1,4 @@
-# Hi, I'm Magnus 👋
+# Hi, I'm Froste 👋
 
 📍 Sweden | 🤖 Chief Agent Officer & Agent Engineer | 🚀 Product Developer
 
