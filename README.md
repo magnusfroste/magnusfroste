@@ -20,6 +20,7 @@ I design and ship autonomous AI agent systems — from infrastructure to orchest
 - **[AgentTake](https://agenttake.clawable.org)** — Hands the camera to your agent. An MCP server that lets any agent drive a real browser, narrate on the beat and walk away with a polished MP4 — the agent that knows your product is the best director you'll ever hire. *(Formerly Reel-studio.)*
 - **[Agentanbud](https://www.agentanbud.se)** — The first platform built for AI agents in Swedish public procurement. Open tender data, no paywalls, MCP-native so your own agent can watch the market and flag what's worth your time.
 - **[SiliconSoap](https://www.siliconsoap.com)** — 20+ AI models debate live, under pressure, in character. Benchmarks tell you what a model knows; SiliconSoap shows how it reasons, bluffs or folds when challenged — before you trust it in production.
+- **[Certera](https://www.certera.ink)** — AI-designed diplomas, signed on-chain. Describe the certificate in a chat, sign its hash to the Hedera network, and anyone can verify it by ID and name — tamper-evident proof that outlives the issuer.
 
 ## ⚡ Highlights
 
@@ -72,7 +73,7 @@ I design and ship autonomous AI agent systems — from infrastructure to orchest
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
 | [**notton**](https://github.com/magnusfroste/notton) | React · Supabase · AI | Cloud-based note-taking with Apple Notes elegance. AI capabilities for semantic search and chat assistant. Live at [notton.app](https://notton.app) |
-| [**certera**](https://github.com/magnusfroste/certera) | React · AI | AI-generated diplomas and certificates with blockchain-backed verification. Live at [certera.ink](https://www.certera.ink) |
+| [**certera**](https://github.com/magnusfroste/certera) | React · Supabase · Hedera | AI-generated diplomas and certificates, signed to the Hedera Consensus Service for tamper-evident verification. Live at [certera.ink](https://www.certera.ink) |
 | [**timeslot**](https://github.com/magnusfroste/timeslot) | React · Supabase | Create time slots, share the link, let others pick — no registration. Live at [timeslot.fit](https://www.timeslot.fit) |
 | [**lazyjobs-app**](https://github.com/magnusfroste/lazyjobs-app) | React · AI | Job search reimagined with AI-driven matching. Upload CV and get curated job opportunities from diverse sources. |
 | [**painpal**](https://github.com/magnusfroste/painpal) | React · Supabase · AI | Migraine tracking adventure for children. AI-powered assistance makes headache diary an engaging journey. |
